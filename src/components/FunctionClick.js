@@ -6,7 +6,7 @@ function FunctionClick(){
         alert("click Handler");
     }
     return (<div>
-        <button onClick={clickHandler}>Click</button>
+        <button onClick={clickHandler}>Button Click</button>
     </div>)
 } 
 export default FunctionClick
